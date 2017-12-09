@@ -39,7 +39,7 @@
 用户名2；<input type="text" id="mytext1">
 用户名3：<input type="text" id="mytext2">
 简介 <textarea></textarea>
-<input type="button" value="点我" onclick="alertBtn()">
+<input type="button" value="点我2" onclick="alertBtn()">
 
 </body>
 </html>
