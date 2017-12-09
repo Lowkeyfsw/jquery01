@@ -41,7 +41,7 @@
 <div class="divcss">div1</div>
 <div class="divcss">div2</div>
 <div class="divcss">div3</div>
-<input type="button" value="点我" onclick="alertBtn()">
+<input type="button" value="点我1" onclick="alertBtn()">
 
 </body>
 </html>
